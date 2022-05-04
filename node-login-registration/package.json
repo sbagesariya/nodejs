@@ -1,0 +1,32 @@
+{
+  "name": "demo-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lambda.js",
+  "scripts": {
+    "start": "NODE_ENV=local node server.js",
+    "jsdoc": "./node_modules/.bin/jsdoc server/auth/* -r  --destination jsdocs/jsdocs"
+  },
+  "author": "Shivram.b",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "crypto-js": "^3.1.9-1",
+    "eslint": "^4.1.1",
+    "express": "^4.15.3",
+    "i18n": "^0.8.5",
+    "jsonwebtoken": "^8.1.0",
+    "lodash": "^4.17.4",
+    "method-override": "^2.3.9",
+    "moment": "^2.19.2",
+    "mongoose": "^5.9.2",
+    "nodemon": "^2.0.2",
+    "swagger-tools": "^0.10.1"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "jsdoc": "^3.4.3"
+  }
+}

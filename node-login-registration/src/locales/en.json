@@ -1,0 +1,6 @@
+{
+	"LOGIN_FAIL": "Please enter a valid email/username or password",
+	"SIGNIN_SUCCESS": "You have successfully logged in",
+	"ERROR_MSG": "Something went wrong please try again.",
+	"USER_GET_SUCCESS":"User fetched successfully."
+}

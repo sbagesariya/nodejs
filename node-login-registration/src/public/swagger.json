@@ -1,0 +1,19 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "development environment hostname :  localhost",
+    "version": "1.0.0",
+    "title": "API DOCS"
+  },
+  "tags": [
+    {
+      "name": "01. Authentication",
+      "description": ""
+    }
+  ],
+  "schemes": [
+    "http"
+  ],
+  "paths": {},
+  "definitions": {}
+}
